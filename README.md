@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Alberto 👋
 
-<!--
-**albertorm005/albertorm005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 DAM (Multiplatform Application Development) Graduate  
+💻 Java Developer | Spring Boot | MySQL  
+🔧 IT Support Technician (Hardware & Software)  
+🛠 Experience with Salesforce CRM  
+🔐 Currently learning Cybersecurity with Kali Linux  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technologies
+
+- Java
+- Spring Boot
+- MySQL
+- Git
+- REST APIs
+- Salesforce CRM
+- Linux
+
+---
+
+## 🚀 Projects
+
+### Movie Recommendation System (TFG)
+AI-based movie recommendation web application.
+
+Tech:
+- Java
+- Spring Boot
+- MySQL
+- REST API
+
+---
+
+## 💼 Experience
+
+**IT Technician — MrHouston**
+- Remote and onsite technical support
+- Hardware and software troubleshooting
+- IT equipment installation
+
+**Junior Developer — Seidor**
+- CRM Salesforce development
+- Support and configuration tasks
+
+---
+
+## 📫 Contact
+
+LinkedIn:www.linkedin.com/in/alberto-rodriguez-dev
+Email: Alberto.rm005@gmail.com
